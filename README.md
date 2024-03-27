@@ -1,6 +1,6 @@
 # Web_automation-scarping-for-job-hunting
- Developed a script to fetch various job opportunities from a website </br>
- This script uses mongoDB as its database
- You may need to run get_internships() twice
- Certain variables are hidden for privacy purposes
- Please make the changes accordingly
+ 1.Developed a script to fetch various job opportunities from a website </br>
+ 2.This script uses mongoDB as its database </br>
+ 3.You may need to run get_internships() twice </br>
+ 4.Certain variables are hidden for privacy purposes </br>
+ 5.Please make the changes accordingly </br>
